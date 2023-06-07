@@ -1,0 +1,111 @@
+/*Cuadro Blanco*/
+.header {position: relative;
+    top: 0;
+    left: 0;
+    padding:10px 10% ;
+    background-color:royalblue;
+    display: flex;
+    justify-content:space-between;
+    z-index:0;
+    align-items: center;
+    margin: auto;
+border-radius: 20px;}
+/*Cuadro Blanco*/
+    
+ /*Barra Superior*/
+    .logo {font-size: 30px;
+    color:blue;
+    text-decoration: none;
+    font-weight: 700px;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-color:cornflowerblue;
+border-radius: 20px;}
+
+     .nav  {font-size: 20px;
+    color: black;
+    font-weight:600 ;
+    margin-left:35px ;
+    transition: .3s;
+    text-decoration: none;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+    .nav:hover {background-image: url(https://media.istockphoto.com/id/1341387095/es/vector/fondo-de-copo-de-nieve-navide%C3%B1o.jpg?s=612x612&w=0&k=20&c=Ok6RMuqNL0u5bnqEvv51OdPKb28HanZxZcTrKwRUuzc=);
+    border-radius: 20px;
+color:lightskyblue;}
+ /*Barra Superior*/
+
+/*Icono*/
+    .so {position: relative;
+right:100px ;
+ width: 50px;
+height: 50px;
+}
+/*Icono*/
+
+/*Quien Soy*/
+.ho {margin: 52px;
+position: relative;
+}
+
+.qui {
+    position: relative;
+    bottom: 50px;
+max-width: 800px;
+background-color: cornflowerblue;
+font-size: 20px;
+border-radius: 20px;
+}
+
+.me {height: 400px;
+width: 300px;
+border-style:ridge;}
+/*Quien Soy*/
+
+/*Que hago*/
+.la {position: relative;
+    bottom: 50px;
+max-width: 800px;
+background-color: cornflowerblue;
+font-size: 20px;
+border-radius: 20px;}
+
+.lo {position: relative;
+    bottom: 50px;
+max-width: 800px;
+background-color: cornflowerblue;
+font-size: 20px;
+border-radius: 20px;}
+/*Que hago*/
+
+/*Proyectos*/
+.pro {position: relative;
+    bottom: 40px;
+max-width: 800px;
+background-color: cornflowerblue;
+font-size: 20px;
+border-radius: 20px;}
+
+.pa {width: 200px;
+height: 150px;
+background-color: cornflowerblue;
+border-radius: 20px;}
+
+.ne {position: relative;
+    top: 20px;
+max-width: 300px;
+background-color: cornflowerblue;
+font-size: 25px;
+border-radius: 20px;}
+
+
+.t {position: relative;
+    bottom: 40px;
+max-width: 400px;
+background-color: cornflowerblue;
+font-size: 20px;
+border-radius: 20px;}
+
+.cor {font-size: 30px;
+background-color: royalblue;
+border-radius: 20px;
+max-width: 500px;}
